@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+import oeis
+print oeis.factorial(0)
+print oeis.factorial(1)
+print oeis.factorial(2)
+print oeis.factorial(3)
+print oeis.factorial(4)
+print oeis.factorial(5)
+
